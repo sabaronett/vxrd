@@ -1,1 +1,1 @@
-FLASK_APP=vxrd.py
+FLASK_APP=microblog.py
