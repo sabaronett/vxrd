@@ -1,5 +1,5 @@
 # vxrd
-## Interactive X-Ray Diffraction Calculator
+### Interactive X-Ray Diffraction Calculator
 
 This repository is intended for basic Flask understanding and preliminary developement.
 
